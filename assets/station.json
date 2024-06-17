@@ -1,0 +1,1076 @@
+{
+    "status": true,
+    "message": "Success",
+    "timestamp": 1718561518446,
+    "data": [
+        {
+            "name": "BAJUD",
+            "eng_name": "BAJUD",
+            "code": "BJUD",
+            "state_name": "GUJARAT"
+        },
+        {
+            "name": "BARAUNI BYPASS",
+            "eng_name": "BARAUNI BYPASS",
+            "code": "BJUP",
+            "state_name": "BIHAR"
+        },
+        {
+            "name": "BARAUNI JN",
+            "eng_name": "BARAUNI JN",
+            "code": "BJU",
+            "state_name": "Bihar"
+        },
+        {
+            "name": "Abhaipur",
+            "eng_name": "Abhaipur",
+            "code": "AHA",
+            "city": "Abhaipur"
+        },
+        {
+            "name": "Abhayapuri Asam",
+            "eng_name": "Abhayapuri Asam",
+            "code": "AYU",
+            "city": "Abhayapuri Asam"
+        },
+        {
+            "name": "Abohar",
+            "eng_name": "Abohar",
+            "code": "ABS",
+            "city": "Abohar"
+        },
+        {
+            "name": "Abu Road",
+            "eng_name": "Abu Road",
+            "code": "ABR",
+            "city": "Abu Road"
+        },
+        {
+            "name": "Achalda",
+            "eng_name": "Achalda",
+            "code": "ULD",
+            "city": "Achalda"
+        },
+        {
+            "name": "Achhnera Junction",
+            "eng_name": "Achhnera Junction",
+            "code": "AH",
+            "city": "Achhnera Junction"
+        },
+        {
+            "name": "Adas Road",
+            "eng_name": "Adas Road",
+            "code": "ADD",
+            "city": "Adas Road"
+        },
+        {
+            "name": "Adavali",
+            "eng_name": "Adavali",
+            "code": "ADVI",
+            "city": "Adavali"
+        },
+        {
+            "name": "Adesar",
+            "eng_name": "Adesar",
+            "code": "AAR",
+            "city": "Adesar"
+        },
+        {
+            "name": "Adgaon Buzurg",
+            "eng_name": "Adgaon Buzurg",
+            "code": "ABZ",
+            "city": "Adgaon Buzurg"
+        },
+        {
+            "name": "Adhartal",
+            "eng_name": "Adhartal",
+            "code": "ADTL",
+            "city": "Adhartal"
+        },
+        {
+            "name": "Adhikari",
+            "eng_name": "Adhikari",
+            "code": "ADQ",
+            "city": "Adhikari"
+        },
+        {
+            "name": "Adi Saptagram",
+            "eng_name": "Adi Saptagram",
+            "code": "ADST",
+            "city": "Adi Saptagram"
+        },
+        {
+            "name": "Adilabad",
+            "eng_name": "Adilabad",
+            "code": "ADB",
+            "city": "Adilabad"
+        },
+        {
+            "name": "Adina",
+            "eng_name": "Adina",
+            "code": "ADF",
+            "city": "Adina"
+        },
+        {
+            "name": "Adipur",
+            "eng_name": "Adipur",
+            "code": "AI",
+            "city": "Adipur"
+        },
+        {
+            "name": "Adityapur",
+            "eng_name": "Adityapur",
+            "code": "ADTP",
+            "city": "Adityapur"
+        },
+        {
+            "name": "Adoni",
+            "eng_name": "Adoni",
+            "code": "AD",
+            "city": "Adoni"
+        },
+        {
+            "name": "Adra Junction",
+            "eng_name": "Adra Junction",
+            "code": "ADRA",
+            "city": "Adra Junction"
+        },
+        {
+            "name": "Adrsh Ngr Delhi",
+            "eng_name": "Adrsh Ngr Delhi",
+            "code": "ANDI",
+            "city": "Delhi"
+        },
+        {
+            "name": "Aduturai",
+            "eng_name": "Aduturai",
+            "code": "ADT",
+            "city": "Aduturai"
+        },
+        {
+            "name": "Agartala",
+            "eng_name": "Agartala",
+            "code": "AGTL",
+            "city": "Agartala"
+        },
+        {
+            "name": "Agasod",
+            "eng_name": "Agasod",
+            "code": "AGD",
+            "city": "Agasod"
+        },
+        {
+            "name": "Aghwanpur",
+            "eng_name": "Aghwanpur",
+            "code": "AWP",
+            "city": "Aghwanpur"
+        },
+        {
+            "name": "Agomoni",
+            "eng_name": "Agomoni",
+            "code": "AGMN",
+            "city": "Agomoni"
+        },
+        {
+            "name": "Ambarnath",
+            "eng_name": "Ambarnath",
+            "code": "ABH",
+            "state_name": "Maharashtra"
+        },
+        {
+            "name": "Ambasa",
+            "eng_name": "Ambasa",
+            "code": "ABSA",
+            "state_name": "Tripura"
+        },
+        {
+            "name": "Ambasamudram",
+            "eng_name": "Ambasamudram",
+            "code": "ASD",
+            "state_name": "Tamil Nadu"
+        },
+        {
+            "name": "Ambaturai",
+            "eng_name": "Ambaturai",
+            "code": "ABI",
+            "state_name": "Tamil Nadu"
+        },
+        {
+            "name": "Ambika Kalna",
+            "eng_name": "Ambika Kalna",
+            "code": "ABKA",
+            "state_name": "West Bengal"
+        },
+        {
+            "name": "Ambika Rohina",
+            "eng_name": "Ambika Rohina",
+            "code": "AMBR",
+            "state_name": "Punjab"
+        },
+        {
+            "name": "Ambikapur",
+            "eng_name": "Ambikapur",
+            "code": "ABKP",
+            "state_name": "Chhattisgarh"
+        },
+        {
+            "name": "Ambli Road",
+            "eng_name": "Ambli Road",
+            "code": "ABD",
+            "state_name": "Gujarat"
+        },
+        {
+            "name": "Ambliyasan",
+            "eng_name": "Ambliyasan",
+            "code": "UMN",
+            "state_name": "Gujarat"
+        },
+        {
+            "name": "Ambodala",
+            "eng_name": "Ambodala",
+            "code": "AMB",
+            "state_name": "Andhra Pradesh"
+        },
+        {
+            "name": "Ambur",
+            "eng_name": "Ambur",
+            "code": "AB",
+            "state_name": "Tamil Nadu"
+        },
+        {
+            "name": "Amdara",
+            "eng_name": "Amdara",
+            "code": "UDR",
+            "state_name": "Uttar Pradesh"
+        },
+        {
+            "name": "Amethi",
+            "eng_name": "Amethi",
+            "code": "AME",
+            "state_name": "Uttar Pradesh"
+        },
+        {
+            "name": "Amgaon",
+            "eng_name": "Amgaon",
+            "code": "AGN",
+            "state_name": "Maharashtra"
+        },
+        {
+            "name": "Amguri",
+            "eng_name": "Amguri",
+            "code": "AGI",
+            "state_name": "Assam"
+        },
+        {
+            "name": "Amla Junction",
+            "eng_name": "Amla Junction",
+            "code": "AMLA",
+            "state_name": "Madhya Pradesh"
+        },
+        {
+            "name": "Amlai",
+            "eng_name": "Amlai",
+            "code": "AAL",
+            "state_name": "Madhya Pradesh"
+        },
+        {
+            "name": "Amlakhurd",
+            "eng_name": "Amlakhurd",
+            "code": "AMX",
+            "state_name": "Maharashtra"
+        },
+        {
+            "name": "Amli",
+            "eng_name": "Amli",
+            "code": "AMLI",
+            "state_name": "Gujarat"
+        },
+        {
+            "name": "Ammanabrolu",
+            "eng_name": "Ammanabrolu",
+            "code": "ANB",
+            "state_name": "Andhra Pradesh"
+        },
+        {
+            "name": "Ammasandra",
+            "eng_name": "Ammasandra",
+            "code": "AMSA",
+            "state_name": "Karnataka"
+        },
+        {
+            "name": "Ammuguda",
+            "eng_name": "Ammuguda",
+            "code": "AMQ",
+            "state_name": "Telangana"
+        },
+        {
+            "name": "Amoni",
+            "eng_name": "Amoni",
+            "code": "AONI",
+            "state_name": "Assam"
+        },
+        {
+            "name": "Amravati",
+            "eng_name": "Amravati",
+            "code": "AMI",
+            "state_name": "Maharashtra"
+        },
+        {
+            "name": "Amritapura",
+            "eng_name": "Amritapura",
+            "code": "AMC",
+            "state_name": "Karnataka"
+        },
+        {
+            "name": "Amritsar Junction",
+            "eng_name": "Amritsar Junction",
+            "code": "ASR",
+            "state_name": "Punjab"
+        },
+        {
+            "name": "Amroha",
+            "eng_name": "Amroha",
+            "code": "AMRO",
+            "state_name": "Uttar Pradesh"
+        },
+        {
+            "name": "Anakapalle",
+            "eng_name": "Anakapalle",
+            "code": "AKP",
+            "state_name": "Andhra Pradesh"
+        },
+        {
+            "name": "Anand Junction",
+            "eng_name": "Anand Junction",
+            "code": "ANND",
+            "state_name": "Gujarat"
+        },
+        {
+            "name": "Anand Nagar",
+            "eng_name": "Anand Nagar",
+            "code": "ANDN",
+            "state_name": "Uttar Pradesh"
+        },
+        {
+            "name": "Anand Vihar",
+            "eng_name": "Anand Vihar",
+            "code": "ANVR",
+            "state_name": "Delhi"
+        },
+        {
+            "name": "Anand Vihar Trm",
+            "eng_name": "Anand Vihar Trm",
+            "code": "ANVT",
+            "state_name": "Delhi"
+        },
+        {
+            "name": "Anandapuram",
+            "eng_name": "Anandapuram",
+            "code": "ANF",
+            "state_name": "Andhra Pradesh"
+        },
+        {
+            "name": "Anandpur Sahib",
+            "eng_name": "Anandpur Sahib",
+            "code": "ANSB",
+            "state_name": "Punjab"
+        },
+        {
+            "name": "Anantapur",
+            "eng_name": "Anantapur",
+            "code": "ATP",
+            "state_name": "Andhra Pradesh"
+        },
+        {
+            "name": "Anantnag",
+            "eng_name": "Anantnag",
+            "code": "ANT",
+            "state_name": "Jammu and Kashmir"
+        },
+        {
+            "name": "Anaparti",
+            "eng_name": "Anaparti",
+            "code": "APT",
+            "state_name": "Andhra Pradesh"
+        },
+        {
+            "name": "Anara",
+            "eng_name": "Anara",
+            "code": "ANR",
+            "state_name": "West Bengal"
+        },
+        {
+            "name": "Anas",
+            "eng_name": "Anas",
+            "code": "ANAS",
+            "state_name": "Uttar Pradesh"
+        },
+        {
+            "name": "Anavardikhanpet",
+            "eng_name": "Anavardikhanpet",
+            "code": "AVN",
+            "state_name": "Tamil Nadu"
+        },
+        {
+            "name": "Ancheli",
+            "eng_name": "Ancheli",
+            "code": "ACL",
+            "state_name": "Gujarat"
+        },
+        {
+            "name": "Andal Junction",
+            "eng_name": "Andal Junction",
+            "code": "UDL",
+            "state_name": "West Bengal"
+        },
+        {
+            "name": "Andheri",
+            "eng_name": "Andheri",
+            "code": "ADH",
+            "state_name": "Maharashtra"
+        },
+        {
+            "name": "Andul",
+            "eng_name": "Andul",
+            "code": "ADL",
+            "state_name": "West Bengal"
+        },
+        {
+            "name": "Angadippuram",
+            "eng_name": "Angadippuram",
+            "code": "AAM",
+            "state_name": "Kerala"
+        },
+        {
+            "name": "Angamali",
+            "eng_name": "Angamali",
+            "code": "AFK",
+            "state_name": "Kerala"
+        },
+        {
+            "name": "Angar",
+            "eng_name": "Angar",
+            "code": "AAG",
+            "state_name": "Uttar Pradesh"
+        },
+        {
+            "name": "Angul",
+            "eng_name": "Angul",
+            "code": "ANGL",
+            "state_name": "Odisha"
+        },
+        {
+            "name": "Anjani",
+            "eng_name": "Anjani",
+            "code": "ANO",
+            "state_name": "Gujarat"
+        },
+        {
+            "name": "Ambarnath",
+            "eng_name": "Ambarnath",
+            "code": "ABH",
+            "state_name": "Maharashtra"
+        },
+        {
+            "name": "Ambasa",
+            "eng_name": "Ambasa",
+            "code": "ABSA",
+            "state_name": "Tripura"
+        },
+        {
+            "name": "Ambasamudram",
+            "eng_name": "Ambasamudram",
+            "code": "ASD",
+            "state_name": "Tamil Nadu"
+        },
+        {
+            "name": "Ambaturai",
+            "eng_name": "Ambaturai",
+            "code": "ABI",
+            "state_name": "Tamil Nadu"
+        },
+        {
+            "name": "Ambika Kalna",
+            "eng_name": "Ambika Kalna",
+            "code": "ABKA",
+            "state_name": "West Bengal"
+        },
+        {
+            "name": "Ambika Rohina",
+            "eng_name": "Ambika Rohina",
+            "code": "AMBR",
+            "state_name": "Punjab"
+        },
+        {
+            "name": "Ambikapur",
+            "eng_name": "Ambikapur",
+            "code": "ABKP",
+            "state_name": "Chhattisgarh"
+        },
+        {
+            "name": "Ambli Road",
+            "eng_name": "Ambli Road",
+            "code": "ABD",
+            "state_name": "Gujarat"
+        },
+        {
+            "name": "Ambliyasan",
+            "eng_name": "Ambliyasan",
+            "code": "UMN",
+            "state_name": "Gujarat"
+        },
+        {
+            "name": "Ambodala",
+            "eng_name": "Ambodala",
+            "code": "AMB",
+            "state_name": "Andhra Pradesh"
+        },
+        {
+            "name": "Ambur",
+            "eng_name": "Ambur",
+            "code": "AB",
+            "state_name": "Tamil Nadu"
+        },
+        {
+            "name": "Amdara",
+            "eng_name": "Amdara",
+            "code": "UDR",
+            "state_name": "Uttar Pradesh"
+        },
+        {
+            "name": "Amethi",
+            "eng_name": "Amethi",
+            "code": "AME",
+            "state_name": "Uttar Pradesh"
+        },
+        {
+            "name": "Amgaon",
+            "eng_name": "Amgaon",
+            "code": "AGN",
+            "state_name": "Maharashtra"
+        },
+        {
+            "name": "Amguri",
+            "eng_name": "Amguri",
+            "code": "AGI",
+            "state_name": "Assam"
+        },
+        {
+            "name": "Amla Junction",
+            "eng_name": "Amla Junction",
+            "code": "AMLA",
+            "state_name": "Madhya Pradesh"
+        },
+        {
+            "name": "Amlai",
+            "eng_name": "Amlai",
+            "code": "AAL",
+            "state_name": "Madhya Pradesh"
+        },
+        {
+            "name": "Amlakhurd",
+            "eng_name": "Amlakhurd",
+            "code": "AMX",
+            "state_name": "Maharashtra"
+        },
+        {
+            "name": "Amli",
+            "eng_name": "Amli",
+            "code": "AMLI",
+            "state_name": "Gujarat"
+        },
+        {
+            "name": "Ammanabrolu",
+            "eng_name": "Ammanabrolu",
+            "code": "ANB",
+            "state_name": "Andhra Pradesh"
+        },
+        {
+            "name": "Ammasandra",
+            "eng_name": "Ammasandra",
+            "code": "AMSA",
+            "state_name": "Karnataka"
+        },
+        {
+            "name": "Ammuguda",
+            "eng_name": "Ammuguda",
+            "code": "AMQ",
+            "state_name": "Telangana"
+        },
+        {
+            "name": "Amoni",
+            "eng_name": "Amoni",
+            "code": "AONI",
+            "state_name": "Assam"
+        },
+        {
+            "name": "Amravati",
+            "eng_name": "Amravati",
+            "code": "AMI",
+            "state_name": "Maharashtra"
+        },
+        {
+            "name": "Amritapura",
+            "eng_name": "Amritapura",
+            "code": "AMC",
+            "state_name": "Karnataka"
+        },
+        {
+            "name": "Amritsar Junction",
+            "eng_name": "Amritsar Junction",
+            "code": "ASR",
+            "state_name": "Punjab"
+        },
+        {
+            "name": "Amroha",
+            "eng_name": "Amroha",
+            "code": "AMRO",
+            "state_name": "Uttar Pradesh"
+        },
+        {
+            "name": "Anakapalle",
+            "eng_name": "Anakapalle",
+            "code": "AKP",
+            "state_name": "Andhra Pradesh"
+        },
+        {
+            "name": "Anand Junction",
+            "eng_name": "Anand Junction",
+            "code": "ANND",
+            "state_name": "Gujarat"
+        },
+        {
+            "name": "Anand Nagar",
+            "eng_name": "Anand Nagar",
+            "code": "ANDN",
+            "state_name": "Uttar Pradesh"
+        },
+        {
+            "name": "Anand Vihar",
+            "eng_name": "Anand Vihar",
+            "code": "ANVR",
+            "state_name": "Delhi"
+        },
+        {
+            "name": "Anand Vihar Trm",
+            "eng_name": "Anand Vihar Trm",
+            "code": "ANVT",
+            "state_name": "Delhi"
+        },
+        {
+            "name": "Anandapuram",
+            "eng_name": "Anandapuram",
+            "code": "ANF",
+            "state_name": "Andhra Pradesh"
+        },
+        {
+            "name": "Anandpur Sahib",
+            "eng_name": "Anandpur Sahib",
+            "code": "ANSB",
+            "state_name": "Punjab"
+        },
+        {
+            "name": "Anantapur",
+            "eng_name": "Anantapur",
+            "code": "ATP",
+            "state_name": "Andhra Pradesh"
+        },
+        {
+            "name": "Anantnag",
+            "eng_name": "Anantnag",
+            "code": "ANT",
+            "state_name": "Jammu and Kashmir"
+        },
+        {
+            "name": "Anaparti",
+            "eng_name": "Anaparti",
+            "code": "APT",
+            "state_name": "Andhra Pradesh"
+        },
+        {
+            "name": "Anara",
+            "eng_name": "Anara",
+            "code": "ANR",
+            "state_name": "West Bengal"
+        },
+        {
+            "name": "Anas",
+            "eng_name": "Anas",
+            "code": "ANAS",
+            "state_name": "Uttar Pradesh"
+        },
+        {
+            "name": "Anavardikhanpet",
+            "eng_name": "Anavardikhanpet",
+            "code": "AVN",
+            "state_name": "Tamil Nadu"
+        },
+        {
+            "name": "Ancheli",
+            "eng_name": "Ancheli",
+            "code": "ACL",
+            "state_name": "Gujarat"
+        },
+        {
+            "name": "Andal Junction",
+            "eng_name": "Andal Junction",
+            "code": "UDL",
+            "state_name": "West Bengal"
+        },
+        {
+            "name": "Andheri",
+            "eng_name": "Andheri",
+            "code": "ADH",
+            "state_name": "Maharashtra"
+        },
+        {
+            "name": "Andul",
+            "eng_name": "Andul",
+            "code": "ADL",
+            "state_name": "West Bengal"
+        },
+        {
+            "name": "Angadippuram",
+            "eng_name": "Angadippuram",
+            "code": "AAM",
+            "state_name": "Kerala"
+        },
+        {
+            "name": "Angamali",
+            "eng_name": "Angamali",
+            "code": "AFK",
+            "state_name": "Kerala"
+        },
+        {
+            "name": "Angar",
+            "eng_name": "Angar",
+            "code": "AAG",
+            "state_name": "Uttar Pradesh"
+        },
+        {
+            "name": "Angul",
+            "eng_name": "Angul",
+            "code": "ANGL",
+            "state_name": "Odisha"
+        },
+        {
+            "name": "Anjani",
+            "eng_name": "Anjani",
+            "code": "ANO",
+            "state_name": "Gujarat"
+        },
+        {
+            "name": "Karak Bel",
+            "eng_name": "Karak Bel",
+            "code": "KKB",
+            "state_name": ""
+         },
+         {
+            "name": "Karaboh",
+            "eng_name": "Karaboh",
+            "code": "KRBO",
+            "state_name": ""
+         },
+         {
+            "name": "Karad",
+            "eng_name": "Karad",
+            "code": "KRD",
+            "state_name": ""
+         },
+         {
+            "name": "Karagola Road",
+            "eng_name": "Karagola Road",
+            "code": "CRR",
+            "state_name": ""
+         },
+         {
+            "name": "Karaikal",
+            "eng_name": "Karaikal",
+            "code": "KIK",
+            "state_name": ""
+         },
+         {
+            "name": "Karaikkudi Junction",
+            "eng_name": "Karaikkudi Junction",
+            "code": "KKDI",
+            "state_name": ""
+         },
+         {
+            "name": "Karaila Road Junction",
+            "eng_name": "Karaila Road Junction",
+            "code": "KRLR",
+            "state_name": ""
+         },
+         {
+            "name": "Karajgi",
+            "eng_name": "Karajgi",
+            "code": "KJG",
+            "state_name": ""
+         },
+         {
+            "name": "Karakoram",
+            "eng_name": "Karakoram",
+            "code": "KAR",
+            "state_name": ""
+         },
+         {
+            "name": "Karakuan",
+            "eng_name": "Karakuan",
+            "code": "KKBH",
+            "state_name": ""
+         },
+         {
+            "name": "Karaundi",
+            "eng_name": "Karaundi",
+            "code": "KQW",
+            "state_name": ""
+         },
+         {
+            "name": "Karauta",
+            "eng_name": "Karauta",
+            "code": "KRQ",
+            "state_name": ""
+         },
+         {
+            "name": "Karedu",
+            "eng_name": "Karedu",
+            "code": "KRU",
+            "state_name": ""
+         },
+         {
+            "name": "Karengi",
+            "eng_name": "Karengi",
+            "code": "KRAN",
+            "state_name": ""
+         },
+         {
+            "name": "Kariamunda",
+            "eng_name": "Kariamunda",
+            "code": "KJY",
+            "state_name": ""
+         },
+         {
+            "name": "Karikalanaickenpalayam",
+            "eng_name": "Karikalanaickenpalayam",
+            "code": "KRKL",
+            "state_name": ""
+         },
+         {
+            "name": "Kariha",
+            "eng_name": "Kariha",
+            "code": "KIRL",
+            "state_name": ""
+         },
+         {
+            "name": "Kariamangalam",
+            "eng_name": "Kariamangalam",
+            "code": "KRMR",
+            "state_name": ""
+         },
+         {
+            "name": "Karimganj Junction",
+            "eng_name": "Karimganj Junction",
+            "code": "KGM",
+            "state_name": ""
+         },
+         {
+            "name": "Karimganj City",
+            "eng_name": "Karimganj City",
+            "code": "KIJ",
+            "state_name": ""
+         },
+         {
+            "name": "Kariha Halt",
+            "eng_name": "Kariha Halt",
+            "code": "KJU",
+            "state_name": ""
+         },
+         {
+            "name": "Karjat",
+            "eng_name": "Karjat",
+            "code": "KRJ",
+            "state_name": ""
+         },
+         {
+            "name": "Karakol",
+            "eng_name": "Karakol",
+            "code": "KLL",
+            "state_name": ""
+         },
+         {
+            "name": "Keshod",
+            "eng_name": "Keshod",
+            "code": "KSD",
+            "state_name": ""
+         },
+         {
+            "name": "Kabakaputtur",
+            "eng_name": "Kabakaputtur",
+            "code": "KBPR",
+            "state_name": ""
+         },
+         {
+            "name": "Kabrai",
+            "eng_name": "Kabrai",
+            "code": "KBR",
+            "state_name": ""
+         },
+         {
+            "name": "Kabrai Road",
+            "eng_name": "Kabrai Road",
+            "code": "KBRX",
+            "state_name": ""
+         },
+         {
+            "name": "Kambarganvi",
+            "eng_name": "Kambarganvi",
+            "code": "KGVI",
+            "state_name": ""
+         },
+         {
+            "name": "Khadarpett",
+            "eng_name": "Khadarpett",
+            "code": "KRH",
+            "state_name": ""
+         },
+         {
+            "name": "Kotabommali",
+            "eng_name": "Kotabommali",
+            "code": "KBM",
+            "state_name": ""
+         },
+         {
+            "name": "Kotabommali North Cabin",
+            "eng_name": "Kotabommali North Cabin",
+            "code": "KBNC",
+            "state_name": ""
+         },
+         {
+            "name": "Kantabanji",
+            "eng_name": "Kantabanji",
+            "code": "KBJ",
+            "state_name": ""
+         },
+         {
+            "name": "Kantadih",
+            "eng_name": "Kantadih",
+            "code": "KTD",
+            "state_name": ""
+         },
+         {
+            "name": "Kantakapalle",
+            "eng_name": "Kantakapalle",
+            "code": "KPL",
+            "state_name": ""
+         },
+         {
+            "name": "Kanth",
+            "eng_name": "Kanth",
+            "code": "KNT",
+            "state_name": ""
+         },
+         {
+            "name": "Kanthan Junction",
+            "eng_name": "Kanthan Junction",
+            "code": "KNHN",
+            "state_name": ""
+         },
+         {
+            "name": "Kanthi P H",
+            "eng_name": "Kanthi P H",
+            "code": "KATI",
+            "state_name": ""
+         },
+         {
+            "name": "Kanwalpura",
+            "eng_name": "Kanwalpura",
+            "code": "KIW",
+            "state_name": ""
+         },
+         {
+            "name": "Kanwat",
+            "eng_name": "Kanwat",
+            "code": "KAWT",
+            "state_name": ""
+         },
+         {
+            "name": "Kanyakumari",
+            "eng_name": "Kanyakumari",
+            "code": "CAPE",
+            "state_name": ""
+         },
+         {
+            "name": "Kapan",
+            "eng_name": "Kapan",
+            "code": "KPNA",
+            "state_name": ""
+         },
+         {
+            "name": "Kapasan",
+            "eng_name": "Kapasan",
+            "code": "KIN",
+            "state_name": ""
+         },
+         {
+            "name": "Kapilas Road",
+            "eng_name": "Kapilas Road",
+            "code": "KIS",
+            "state_name": ""
+         },
+         {
+            "name": "Kappil",
+            "eng_name": "Kappil",
+            "code": "KFI",
+            "state_name": ""
+         },
+         {
+            "name": "Kapren",
+            "eng_name": "Kapren",
+            "code": "KPZ",
+            "state_name": ""
+         },
+         {
+            "name": "Kapseti",
+            "eng_name": "Kapseti",
+            "code": "KEH",
+            "state_name": ""
+         },
+         {
+            "name": "Kaptanganj Junction",
+            "eng_name": "Kaptanganj Junction",
+            "code": "CPJ",
+            "state_name": ""
+         },
+         {
+            "name": "Kapurdha Halt",
+            "eng_name": "Kapurdha Halt",
+            "code": "KPDH",
+            "state_name": ""
+         },
+         {
+            "name": "Kapurthala",
+            "eng_name": "Kapurthala",
+            "code": "KXH",
+            "state_name": ""
+         },
+         {
+            "name": "Karaboh",
+            "eng_name": "Karaboh",
+            "code": "KRBO",
+            "state_name": ""
+         },
+         {
+            "name": "Karad",
+            "eng_name": "Karad",
+            "code": "KRD",
+            "state_name": ""
+         },
+         {
+            "name": "Karagola Road",
+            "eng_name": "Karagola Road",
+            "code": "CRR",
+            "state_name": ""
+         }
+        
+    ]
+}
